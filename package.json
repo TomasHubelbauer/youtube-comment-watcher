@@ -1,0 +1,11 @@
+{
+  "name": "youtube-comments-watcher",
+  "type": "module",
+  "scripts": {
+    "start": "npm test",
+    "test": "node test"
+  },
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
